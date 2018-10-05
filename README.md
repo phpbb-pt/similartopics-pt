@@ -1,2 +1,2 @@
 
-Tradução Portuguesa (PT-PT) Ext Precise Similar Topics versão 1.0.0 - phpBB 3.2.3
+Tradução Portuguesa (PT-PT)  versão 1.0.0 - Ext Precise Similar Topics versão 1.5.1
